@@ -1,6 +1,7 @@
 alias ls=lsd
 alias nv=nvim
 alias lg=lazygit
+alias please=sudo
 alias man='MANPAGER="nvim +Man!" man'
 alias fastfetch='clear; fastfetch'
 alias mucli='music-cli'
